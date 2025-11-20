@@ -11,3 +11,7 @@
 3. Salida:
    - Se genera un archivo CSV con columnas:
      datetime, source, comment, likes, amountComments
+
+Bitcoin.csv : raw data de reddit 
+reddt_df.csv : información procesada de reddit
+x_df : información procesada de X
